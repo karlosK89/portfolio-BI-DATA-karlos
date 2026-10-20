@@ -47,17 +47,18 @@ L'objectif est de mettre en pratique les méthodes de Business Intelligence et d
 ---
 
 
+
 ### Aperçu du tableau de bord
 
 #### 01 — Vue d'ensemble
 ![Vue d'ensemble](images/01-vue-ensemble.png)
 
 #### 02 — Transport
-![Analyse des transports](images/02-transport.png)
+![Analyse des transports](images/02%20-%20Transport.png)
 
 #### 03 — Stocks
-![Analyse des stocks](images/03-stocks.png)
+![Analyse des stocks](images/03%20-%20Stocks.png)
 
 #### 04 — Fournisseurs
-![Analyse des fournisseurs](images/04-fournisseurs.png)
-  
+![Analyse des fournisseurs](images/04%20-%20Fournisseurs.png)
+
