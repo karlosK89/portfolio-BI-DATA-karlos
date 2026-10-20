@@ -46,8 +46,18 @@ L'objectif est de mettre en pratique les méthodes de Business Intelligence et d
 
 ---
 
+
 ### Aperçu du tableau de bord
 
-![Vue d'ensemble du tableau de bord Power BI](images/01-vue-ensemble.png)
+#### 01 — Vue d'ensemble
+![Vue d'ensemble](images/01-vue-ensemble.png)
 
-*Portfolio en cours de développement — d'autres projets BI et Data Analytics viendront compléter ce dépôt.*
+#### 02 — Transport
+![Analyse des transports](images/02-transport.png)
+
+#### 03 — Stocks
+![Analyse des stocks](images/03-stocks.png)
+
+#### 04 — Fournisseurs
+![Analyse des fournisseurs](images/04-fournisseurs.png)
+  
